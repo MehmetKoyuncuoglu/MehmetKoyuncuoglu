@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mehmet.koyun.2001@hotmail.com**
 
-
+<div align= "left" width = "40px"></div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
